@@ -1,0 +1,6 @@
+There are 35 Keywords In Python
+dynamically typed
+Interpreted and Platform Independent
+Modules:- BuiltIn, External
+
+winget install Python.Python.3.11 :- for new version
